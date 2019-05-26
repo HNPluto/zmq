@@ -1,0 +1,252 @@
+.page1 {
+    background: url('11.png') no-repeat;
+    background-size: cover;
+}
+
+.page1 img {
+    position: absolute;
+}
+
+.page1 img:nth-of-type(1) {
+    width: 6rem;
+    height: 6rem;
+    left: 1rem;
+    top: 4rem;
+}
+
+.page1 img:nth-of-type(2) {
+    width: 3rem;
+    height: 3.5rem;
+    left: 0rem;
+    bottom:0rem;
+}
+.box1{
+    font-size:1.2rem;
+    color: blueviolet;
+    font-family:'微软雅黑'；
+    text-align:center;
+    left: 2.3rem;
+    bottom:10rem;
+    position: absolute;
+    font-weight;
+}
+.box2{
+    font-size: .5rem;
+    color: blueviolet;
+    font-weight: normal;
+    font-family:'微软雅黑'；
+    text-align:center;
+    left:3rem;
+    bottom:4.9rem;
+    position: absolute;
+    line-height:1rem;
+}
+/* ==PAGE2== */
+.page2 {
+    background: url('11.png') no-repeat;
+    background-size: cover;
+}
+
+.page2 img {
+    position: absolute;
+}
+
+.page2 img:nth-of-type(1) {
+    width: 2.9rem;
+    height: 2.9rem;
+    left: 0.5rem;
+    top: 0.3rem;
+}
+
+.page2 img:nth-of-type(2) {
+    width: 2.9rem;
+    height: 2.9rem;
+    right: 0.5rem;
+    top: 0.3rem;
+}
+.page2 img:nth-of-type(3) {
+    width: 2.9rem;
+    height: 2.9rem;
+    right: 0.5rem;
+    bottom: 0.3rem;
+}
+.page2 img:nth-of-type(4) {
+    width: 2.9rem;
+    height: 2.9rem;
+    left: 0.5rem;
+    bottom: 0.3rem;
+}
+.box3{
+    font-size: .5rem;
+    color: blueviolet;
+    font-weight:normol;
+    font-family:'微软雅黑'；
+    text-align:center;
+    left:1.4rem;
+    bottom:5.6rem;
+    position: absolute;
+    line-height:1rem;
+
+}
+.page3 {
+    background: url('11.png') no-repeat;
+    background-size: cover;
+}
+.page3 img {
+    position: absolute;
+}
+.page3 img:nth-of-type(1){
+    width: 2.9rem;
+    height: 2.9rem;
+    right: 0.3rem;
+    top: 0.5rem;
+}
+.page3 img:nth-of-type(2){
+    width: 2.9rem;
+    height: 2.9rem;
+    left: 0.3rem;
+    bottom:0.5rem;
+}
+.page3 img:nth-of-type(3){
+    width: 2.9rem;
+    height: 2.9rem;
+    left: 0.3rem;
+    top: 0.5rem;
+}
+.page3 img:nth-of-type(4){
+    width: 2.9rem;
+    height: 2.9rem;
+    right: 0.3rem;
+    bottom:0.5rem;
+}
+.box4{
+    font-size: .5rem;
+    color: blueviolet;
+    font-weight: normal;
+    font-family:'微软雅黑'；
+    text-align:center;
+    left:1rem;
+    bottom:4.9rem;
+    position: absolute;
+    line-height:1rem;
+}
+.page4 {
+    background: url('11.png') no-repeat;
+    background-size: cover;
+}
+
+.page4 img {
+    position: absolute;
+}
+.page4 img:nth-of-type(1){
+    width: 8rem;
+    height:2rem;
+    right: 0rem;
+    top: .8rem;
+}
+.box5{
+    font-size: .3rem;
+    color: blueviolet;
+    font-weight: normal;
+    font-family:'微软雅黑'；
+    text-align:center;
+    left:.5rem;
+    bottom:0.2rem;
+    position: absolute;
+    line-height:.7rem;
+}
+.page5 {
+    background: url('11.png') no-repeat;
+    background-size: cover;
+}
+.page5 img {
+    position: absolute;
+}
+.page5 img:nth-of-type(1){
+    width: 8rem;
+    height: 3rem;
+    right: 0.3rem;
+    top: 2.5rem;
+}
+.page5 img:nth-of-type(2){
+    width: 8rem;
+    height: 3rem;
+    left: 0.3rem;
+    bottom:0.5rem;
+}
+.page5 img:nth-of-type(3){
+    width: 8rem;
+    height: 3rem;
+    right: 0.3rem;
+    top: 6.2rem;
+}
+.box6{
+    font-size: .6rem;
+    color: blueviolet;
+    font-weight: normal;
+    font-family:'微软雅黑'；
+    text-align:center;
+    left:.5rem;
+    top:0.5rem;
+    position: absolute;
+    line-height:.7rem;
+}
+.page6 {
+    background: url('11.png') no-repeat;
+    background-size: cover;
+}
+.page6 img {
+    position: absolute;
+}
+.page6 img:nth-of-type(1){
+    width: 8rem;
+    height: 5rem;
+    right: 0.3rem;
+    bottom: .5rem;
+}
+.box7{
+    font-size: .6rem;
+    color: blueviolet;
+    font-weight: normal;
+    font-family:'微软雅黑'；
+    text-align:center;
+    left:.5rem;
+    top:0.5rem;
+    position: absolute;
+    line-height:.7rem;
+}
+.box8{
+    font-size: .3rem;
+    color: blueviolet;
+    font-weight;
+    font-family:'微软雅黑'；
+    text-align:center;
+    left:.5rem;
+    top:2rem;
+    position: absolute;
+    line-height:.7rem;
+}
+.page7 {
+    background: url('11.png') no-repeat;
+    background-size: cover;
+}
+.page7 img {
+    position: absolute;
+}
+.page7 img:nth-of-type(1){
+    width: 8rem;
+    height: 5rem;
+    right: 0.3rem;
+    bottom: .5rem;
+}
+.box9{
+    font-size: 1rem;
+    color: blueviolet;
+    font-weight: normal;
+    font-family:'微软雅黑'；
+    text-align:center;
+    left:1.5rem;
+    top:6rem;
+    position: absolute;
+    line-height:.7rem;
+}
